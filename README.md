@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Said</h1>
-<h3 align="center">frontend developer</h3>
+<h2 align="center">frontend developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m2001said&label=Profile%20views&color=0e75b6&style=flat" alt="m2001said" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://m2001said.github.io/MohamedSaidPortfolio/](https://m2001said.github.io/MohamedSaidPortfolio/)
+- 👨‍💻 All of my projects are available at : [Portfolio](https://m2001said.github.io/MohamedSaidPortfolio/)
 
-- 📄 Know about my experiences [https://www.notion.so/Mohamed-Said-Abdallah-4e6e5b071ab04d159b2980d2929dea60](https://www.notion.so/Mohamed-Said-Abdallah-4e6e5b071ab04d159b2980d2929dea60)
+- 📄 Know about my experiences [CV](https://www.notion.so/Mohamed-Said-Abdallah-4e6e5b071ab04d159b2980d2929dea60)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
