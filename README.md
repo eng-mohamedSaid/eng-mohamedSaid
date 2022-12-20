@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Said</h1>
-<h2 align="center">Full Stack web developer | HTML & CSS | JavaScript | NodeJS | ExpressJS | MongoDB | ReactJS.</h2>
+<h2 align="center">Frontend developer | HTML & CSS | JavaScript | ReactJS | NodeJS | ExpressJS | MongoDB  .</h2>
 <p align="center">
 <img height="auto" width="30%" height="30%" src="https://img.freepik.com/free-vector/binary-code-concept-illustration_114360-6578.jpg?w=740&t=st=1667293861~exp=1667294461~hmac=7a5ff6107d767578c95c440fd37202dfb2122651251e72857260310edd175942" /> </p>
 
