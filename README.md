@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at : [Portfolio](https://mohamed-said-website.vercel.app)
 
-- 📄 Know about my experiences [CV](https://www.notion.so/Mohamed-Said-Abdallah-4e6e5b071ab04d159b2980d2929dea60)
+- 📄 Know about my experiences [CV]([https://www.notion.so/Mohamed-Said-Abdallah-4e6e5b071ab04d159b2980d2929dea60](https://docs.google.com/document/d/1OcavfO8XJ7q3Q5Efn7UbkEj08XX4R7WxYeQJITmoPpU/edit?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
